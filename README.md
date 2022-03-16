@@ -1,4 +1,4 @@
-# Dashboard-PowerBi
+# Dashboard-MicrosoftExcel
 
 Se manejo datos de la base de datos Northwind para hacer sus respectivos dashboard
 
